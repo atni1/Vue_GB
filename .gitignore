@@ -31,3 +31,8 @@ Temporary Items
 .apdisk
 
 # End of https://www.toptal.com/developers/gitignore/api/osx
+l3/.browserslistrc
+l3/.editorconfig
+*.js
+*.json
+*.ico
